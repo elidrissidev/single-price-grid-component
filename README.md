@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/pure-css-with-parcel-bundler-MuYocMCWd)
+- [Live Site URL](https://single-price-grid-component-elidrissidev.vercel.app/)
 
 ## My process
 
